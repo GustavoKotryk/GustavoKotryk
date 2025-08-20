@@ -15,4 +15,5 @@ Hi! My name is Gustavo, but people usually call me Kotryk (my last name).<br>I'm
 ---
 [![](https://visitcount.itsvg.in/api?id=GustavoKotryk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
