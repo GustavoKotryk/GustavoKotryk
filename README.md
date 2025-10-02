@@ -1,4 +1,4 @@
-# About Me:
+# 😁 About Me:
 Hi! My name is Gustavo, but people usually call me Kotryk (my last name).<br>I'm currently working as a trainee at WEG in the Software Development department and finishing my technical course in Systems Development at SENAI.<br>I’m still exploring different areas of tech to find out where I fit best. I’m open to learning, collaborating, and taking on new challenges that help me grow as a developer.
 
 
